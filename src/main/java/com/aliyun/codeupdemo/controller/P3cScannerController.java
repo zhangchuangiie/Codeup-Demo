@@ -25,6 +25,6 @@ public class P3cScannerController {
 
     private String HelloWorld = "Welcome to Codeup";
 
-    private static final String HELLO_WORLD = "云上跑的接口";
+    private static final String HELLO_WORLD = "云上跑的接口(新)";
 }
 
